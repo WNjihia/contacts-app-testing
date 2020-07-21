@@ -1,0 +1,13 @@
+credentials:
+  first_name: 'Bring'
+  last_name: 'Digital'
+  mobile_number: '+351 911111111'
+  mobile_option: 'Other'
+  phone: '+351 211111111'
+  phone_option: 'Other Fax'
+  email: 'Sonia.pereira@bringglobal.com'
+  email_option: 'Work'
+
+credentials_update_options:
+  first_name: 'Doris'
+  last_name: 'Testing'
