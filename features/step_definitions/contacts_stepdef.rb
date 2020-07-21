@@ -14,7 +14,6 @@ end
 Then(/^I save the contact$/) do
   contacts = ContactsScreen.new
   contacts.tap_button("SAVE")
-  sleep 7
 end
 
 And(/^contact is (.*?)$/) do |action|
@@ -34,7 +33,7 @@ When(/^I tap on edit contact$/) do
 end
 
 And(/^I update contact name$/) do
-  sleep 4
+  sleep 3
   contacts = ContactsScreen.new
   contacts.update_contact_name
 end
