@@ -1,0 +1,10 @@
+[caps]
+deviceName = 'Android Emulator'
+deviceOrientation = 'portrait'
+platformVersion = '9.0.0'
+platformName = 'android'
+appPackage = 'com.android.contacts'
+appActivity = 'com.android.contacts.activities.PeopleActivity'
+noReset = 'false'
+skipDeviceInitialization = 'true'
+newCommandTimeout = 30
